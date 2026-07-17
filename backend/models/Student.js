@@ -1,0 +1,40 @@
+const mongoose = require('mongoose');
+
+const studentSchema = new mongoose.Schema({
+  name: { type: String, required: true },
+  school: String,
+  sex: String,
+  age: Number,
+  address: String,
+  famsize: String,
+  Pstatus: String,
+  Medu: Number,
+  Fedu: Number,
+  Mjob: String,
+  Fjob: String,
+  reason: String,
+  guardian: String,
+  traveltime: Number,
+  studytime: Number,
+  failures: Number,
+  schoolsup: String,
+  famsup: String,
+  paid: String,
+  activities: String,
+  nursery: String,
+  higher: String,
+  internet: String,
+  romantic: String,
+  famrel: Number,
+  freetime: Number,
+  goout: Number,
+  Dalc: Number,
+  Walc: Number,
+  health: Number,
+  absences: Number,
+  predicted_score: Number,
+  risk_level: String,
+  createdAt: { type: Date, default: Date.now }
+});
+
+module.exports = mongoose.model('Student', studentSchema);
