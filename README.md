@@ -23,10 +23,6 @@ ml-model:  https://student-performance-ai-h120.onrender.com
 
 This system analyzes behavioral, demographic, and academic factors — such as study time, past failures, absences, and family support — to predict a student's final grade and classify their risk level (Low/Medium/High). It moves beyond simple grade tracking by focusing on early identification of students who may need additional academic support.
 
-###ScreenShot###
-<img width="1920" height="1080" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/07e34843-6a8e-43dc-ba8e-41d6ec8daccc" />
-<img width="1920" height="1080" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/228764cf-b25e-4f97-b040-5bf38b01f7a1" />
-<img width="1920" height="1080" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/8d563048-2e95-4db8-980c-e1d3d092bbae" />
 
 
 ## ✨ Features
