@@ -1,11 +1,19 @@
 # 🎓 AI-Driven Student Performance System
-    
-###Github Link: https://github.com/wwwhimanshumaurya29-afk/student-performance-ai
-###LIVE LINK
-     # frontend:  https://student-performance-ai-theta.vercel.app
-     # backend:   https://student-performance-ai-1-me0f.onrender.com
-     # ml-model:  https://student-performance-ai-h120.onrender.com
 An intelligent full-stack web application that predicts student academic performance and identifies at-risk students using Machine Learning, helping educators provide timely support and intervention.
+
+    
+    Github Link: https://github.com/wwwhimanshumaurya29-afk/student-performance-ai
+
+
+    
+LIVE LINK
+
+frontend:  https://student-performance-ai-theta.vercel.app
+
+backend:   https://student-performance-ai-1-me0f.onrender.com
+
+ml-model:  https://student-performance-ai-h120.onrender.com
+
 
 
 
